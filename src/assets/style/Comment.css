@@ -1,0 +1,18 @@
+div .comment {
+    display: flex;
+    margin: 10px 5px;
+}
+
+div .comment img {
+    max-width: 55px;
+    max-height: 55px;
+    border-radius: 50%;
+}
+
+div .comment .comment-text {
+    box-sizing: border-box;
+    background: #eee;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding: 0 15px;
+}

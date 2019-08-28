@@ -1,0 +1,42 @@
+div .post {
+    background: #fff;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+div .post .post-data {
+    max-width: 660px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+div .post .post-data .post-profile {
+    display: flex;
+    align-items: center;
+}
+
+div .post .post-data .post-profile img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+div .post .post-data .post-profile .user-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div .post .post-data .post-profile .user-data small {
+    color: #ccc;
+}
+
+div .post .post-data .post-caption {
+    margin-top: 40px;
+}
+
+hr {
+    border: 0.5px solid #ccc;
+    margin: 20px 0;
+}
