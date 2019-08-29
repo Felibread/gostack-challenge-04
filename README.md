@@ -11,6 +11,9 @@ The concepts I learned:
 - Components
 - Props
 - States
+- JSX
+- Components lifecycle
+- Immutability
 
 I also had contact with some important technologies to make React apps possible, like Babel and Webpack. That way I could kinda understand how it works.
 
