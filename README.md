@@ -1,4 +1,4 @@
-# Rocketseat:rocket: <a href="https://rocketseat.com.br/">Challenge 04</a>
+# Rocketseat:rocket: GoStack <a href="https://rocketseat.com.br/">Challenge 04</a>
 
 <img src="./src/assets/images/app.png"/>
 
