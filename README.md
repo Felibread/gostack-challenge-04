@@ -1,4 +1,4 @@
-# @Rocketseat:rocket: GoStack <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-04">Challenge 04</a>
+# @Rocketseat :rocket: GoStack <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-04">Challenge 04</a>
 
 <img src="./src/assets/images/app.png"/>
 
